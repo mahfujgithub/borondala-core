@@ -1,0 +1,9 @@
+node_modules
+.env
+logs
+.husky
+.vscode
+.vercel
+dist
+.env.example
+prisma
